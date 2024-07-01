@@ -1,7 +1,7 @@
-
+## **AjaxCallDemo**
 
 ```markdown
-# AjaxCallDemo
+
 
 This project demonstrates how to use Selenium WebDriver with Java to interact with a web page. It specifically shows how to handle AJAX calls and wait for elements to become visible before interacting with them.
 
